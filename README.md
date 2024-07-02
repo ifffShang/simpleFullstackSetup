@@ -71,6 +71,12 @@ Add the following scripts to your package.json to build and run the server.
 
 npm start
 
+# Store this code in GitHub and add nathanbirch as a collaborator
+git init
+git add .
+git commit -m "Initial commit"
+
+
 -----------
 
 # frontend setup
