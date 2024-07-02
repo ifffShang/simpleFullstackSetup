@@ -71,6 +71,8 @@ Add the following scripts to your package.json to build and run the server.
 
 npm start
 
+-----------
 
+# frontend setup
 
 
