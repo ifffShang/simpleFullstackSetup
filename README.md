@@ -57,4 +57,20 @@ app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
 
+# Add Scripts to package.json:
+
+Add the following scripts to your package.json to build and run the server.
+
+"scripts": {
+  "start": "ts-node src/index.ts",
+  "build": "tsc",
+  "serve": "node dist/index.js"
+}
+
+#Run the Server:
+
+npm start
+
+
+
 
