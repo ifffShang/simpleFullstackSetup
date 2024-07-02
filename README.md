@@ -67,7 +67,7 @@ Add the following scripts to your package.json to build and run the server.
   "serve": "node dist/index.js"
 }
 
-#Run the Server:
+# Run the Server:
 
 npm start
 
